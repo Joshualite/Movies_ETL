@@ -1,7 +1,5 @@
 # Movies_ETL
 
-# Movies_ETL
-
 ## Overview
 
 A small work was carried out at a fictitious company where what was worked on were the bases of the ETL process (extract, transform, load), where they learned about how to extract information from different sources and how to unite these same databases in one alone .
