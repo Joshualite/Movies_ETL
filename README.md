@@ -28,4 +28,4 @@ The work was divided into 4 parts:
 - Create the Movie Database:
   Add the movies_df DataFrame and MovieLens rating CSV data to a SQL database
   
-  ![image](https://user-images.githubusercontent.com/66183125/141742374-e8c2ca6c-d582-49c4-821e-696806e8dfed.png)
+  
